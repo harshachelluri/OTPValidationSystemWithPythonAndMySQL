@@ -29,3 +29,6 @@
 - **E-commerce**: Secure transactions and account access.
 - **Banking**: Protects logins and financial transactions.
 - **Healthcare**: Ensures protection of sensitive patient data.
+
+![Screenshot 2024-12-30 173700](https://github.com/user-attachments/assets/531f0c6f-67f6-421e-b28b-2b05645e04ee)
+
