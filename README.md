@@ -1,7 +1,7 @@
 # OTP Validation System - Python, Tkinter & MySQL Integration
 
 ## Project Overview
-
+ 
 **SecureOTP** is a system designed to enhance the security of online platforms by implementing **One-Time Password (OTP)** verification. This project generates a unique OTP for users and verifies it, providing an additional layer of security beyond traditional password-based authentication.
 
 ### Key Features:
